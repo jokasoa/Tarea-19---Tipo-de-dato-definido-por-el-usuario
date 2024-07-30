@@ -1,0 +1,5 @@
+Calificación: 2/3
+Al momento de agregar libros, estos se deben agregar de 1 en 1, es decir, no debe pedir nuevamente todos los libros.
+Falta: Qué es un tipo de dato definido por el usuario?
+Debe documentar todas las funciones.
+Era un único ejercicio.
